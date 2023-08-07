@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="598px" height="180px" viewBox="0 0 598 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>notes mapping</title>
+    <defs>
+        <ellipse id="path-1" cx="30" cy="170" rx="15" ry="10"></ellipse>
+        <filter x="-21.7%" y="-27.5%" width="143.3%" height="165.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.358305391 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="64" cy="160" rx="15" ry="10"></ellipse>
+        <filter x="-21.7%" y="-27.5%" width="143.3%" height="165.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.358305391 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="L+3" fill="#F2F2F2" x="8.57142857" y="0" width="589" height="20"></rect>
+        <rect id="L+2" fill="#D8D8D8" x="8.57142857" y="20" width="589" height="20"></rect>
+        <rect id="L+1" fill="#F2F2F2" x="8.57142857" y="40" width="589" height="20"></rect>
+        <rect id="L1" fill="#8D8D8D" x="8.57142857" y="120" width="589" height="20"></rect>
+        <rect id="L2" fill="#8D8D8D" x="8.57142857" y="100" width="589" height="20"></rect>
+        <rect id="L4" fill="#8D8D8D" x="8.57142857" y="60" width="589" height="20"></rect>
+        <rect id="L3" fill="#8D8D8D" x="8.57142857" y="80" width="589" height="20"></rect>
+        <rect id="L-1" fill="#D8D8D8" x="8.57142857" y="140" width="589" height="20"></rect>
+        <rect id="L-2" fill="#F2F2F2" x="8.57142857" y="160" width="589" height="20"></rect>
+        <rect id="Sidebar" stroke="#979797" fill="#D8D8D8" x="0.157142857" y="0.5" width="8.25714286" height="179"></rect>
+        <g id="B">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <ellipse stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" cx="30" cy="170" rx="14.5" ry="9.5"></ellipse>
+        </g>
+        <g id="C">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <ellipse stroke="#979797" stroke-width="1" stroke-linejoin="square" fill="#D8D8D8" fill-rule="evenodd" cx="64" cy="160" rx="14.5" ry="9.5"></ellipse>
+        </g>
+        <ellipse id="D" stroke="#979797" fill="#D8D8D8" cx="100" cy="150" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="E" stroke="#979797" fill="#D8D8D8" cx="136" cy="140" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="F" stroke="#979797" fill="#D8D8D8" cx="172" cy="130" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="G" stroke="#979797" fill="#D8D8D8" cx="208" cy="120" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="A" stroke="#979797" fill="#D8D8D8" cx="244" cy="110" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="B" stroke="#979797" fill="#D8D8D8" cx="280" cy="100" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="C" stroke="#979797" fill="#D8D8D8" cx="316" cy="90" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="D" stroke="#979797" fill="#D8D8D8" cx="352" cy="80" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="E" stroke="#979797" fill="#D8D8D8" cx="388" cy="70" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="F" stroke="#979797" fill="#D8D8D8" cx="424" cy="60" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="G" stroke="#979797" fill="#D8D8D8" cx="460" cy="50" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="A" stroke="#979797" fill="#D8D8D8" cx="496" cy="40" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="B" stroke="#979797" fill="#D8D8D8" cx="532" cy="30" rx="14.5" ry="9.5"></ellipse>
+        <ellipse id="C" stroke="#979797" fill="#D8D8D8" cx="568" cy="20" rx="14.5" ry="9.5"></ellipse>
+        <line x1="8.5" y1="139.5" x2="587.5" y2="139.5" id="line" stroke="#4B4B4B" stroke-linecap="square"></line>
+        <line x1="10.5" y1="160.5" x2="48.5" y2="160.5" id="short-line" stroke="#4B4B4B" stroke-linecap="square"></line>
+        <text id="C" font-family="Galvji-Bold, Galvji" font-size="14" font-weight="bold" fill="#4E4E4E">
+            <tspan x="58.8115234" y="165">C</tspan>
+        </text>
+        <text id="C" font-family="Galvji-Bold, Galvji" font-size="14" font-weight="bold" fill="#4E4E4E">
+            <tspan x="94.8115234" y="155">C</tspan>
+        </text>
+    </g>
+</svg>
